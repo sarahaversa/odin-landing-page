@@ -24,8 +24,22 @@ h2{
 .flex-container{
     background-color: #E5E7EB;
     justify-content: center;
+    border: rgb(42, 145, 255);
 }
 p{
     font-size: 15px;
     color: #dfe0df;
+}
+.topper{
+    background-color: #1F2937;
+}
+.quote{
+    font-weight: italics;
+    font-size: 36px;
+    color: #1F2937;
+}
+.author{
+    font-weight: bold;
+    font-size; 24px;
+    color: #1F2937;
 }
