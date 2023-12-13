@@ -1,0 +1,27 @@
+h1{
+    color: white;
+    background-color: #1F2937;
+    font-size: 48px;
+    font-weight: extra-bold;
+}
+link{
+    font-size: 18px;
+    color: #E5E7EB;
+}
+h3{
+    font-size: 24px;
+    color: #F9FAF8;
+}
+button{
+    color: #3882F6;
+    background-color: #E5E7EB;
+}
+h2{
+    font-size: 36px;
+    font-weight: extra-bold;
+    color: #1F2937;
+}
+.flex-container{
+    background-color: #E5E7EB;
+    justify-content: center;
+}
