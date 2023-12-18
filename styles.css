@@ -8,6 +8,18 @@ link{
     font-size: 18px;
     color: #aeaeae;
 }
+a:link{
+    color: #aeaeae;
+}
+a:visited{
+    color: #aeaeae;
+}
+a:hover{
+    color: #aeaeae;
+}
+a:active{
+    color: #aeaeae;
+}
 h3{
     font-size: 24px;
     color: #F9FAF8;
@@ -19,7 +31,7 @@ button{
 h2{
     font-size: 36px;
     font-weight: extra-bold;
-    color: #1F2937;
+    color: #1F2937;https://www.w3schools.com/css/css_background.asp
 }
 .flex-container{
     background-color: #E5E7EB;
