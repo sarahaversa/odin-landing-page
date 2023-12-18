@@ -38,6 +38,8 @@ h2{
     justify-content: center;
     border: rgb(42, 145, 255);
     flex: 1;
+    align-items: center;
+    gap: 8px;
 }
 p{
     font-size: 15px;
