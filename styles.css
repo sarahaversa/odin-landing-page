@@ -46,10 +46,10 @@ h2{
     background: #dfe0df;
 }
     .one, .two, .three, .four {
-        height: 140px;
+        height: 14px;
         padding: 16px;
-        background: plum;
-        border: 4px solid indigo;
+        background: navy;
+        border: 4px solid cornflowerblue;
         display: flex;
 }
 p{
