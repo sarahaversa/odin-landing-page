@@ -37,10 +37,11 @@ h2{
     background-color: white;
     justify-content: center;
 }
-.one{
+.one, .two, .three, .four{
     border-color: #3882F6;
     border-width: 8px;
     margin-right: auto;
+    justify-content: space-around;
 }
 p{
     font-size: 15px;
