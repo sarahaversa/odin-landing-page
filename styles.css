@@ -33,16 +33,6 @@ h2{
     font-weight: extra-bold;
     color: #1F2937;
 }
-.flex-container{
-    background-color: white;
-    justify-content: center;
-}
-.one, .two, .three, .four{
-    border-color: #3882F6;
-    border-width: 8px;
-    margin-right: auto;
-    justify-content: space-around;
-}
 p{
     font-size: 15px;
     color: #dfe0df;
