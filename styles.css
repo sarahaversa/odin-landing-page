@@ -78,7 +78,10 @@ p{
     justify-content: center;
 }
 .blue-box{
+    display: flex;
     background-color: #3882F6;
     justify-content: center;
     text-align: center;
+    height: 20px;
+    width: 500px;
 }
