@@ -31,18 +31,17 @@ button{
 h2{
     font-size: 36px;
     font-weight: extra-bold;
-    color: #1F2937;https://www.w3schools.com/css/css_background.asp
+    color: #1F2937;
 }
 .flex-container{
-    background-color: #E5E7EB;
-    width: 60px;
-    height: 60px;
-    border: 4px solid darkslategray;
-    background: #dfe0df;
+    background-color: white;
+    justify-content: center;
 }
-    .one, .two, .three, .four{
-        justify-content: center;
-    }
+.one{
+    border-color: #3882F6;
+    border-width: 8px;
+    margin-right: auto;
+}
 p{
     font-size: 15px;
     color: #dfe0df;
