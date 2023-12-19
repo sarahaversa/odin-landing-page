@@ -38,6 +38,10 @@ h2{
     background-color: white;
 }
 .one, .two, .three, .four{
+    height: 140px;
+    padding: 16px;
+    display: flex;
+    align-items: center;
     flex-direction: row;
     justify-content: space-evenly;
     border-color: cornflowerblue;
@@ -75,8 +79,6 @@ p{
 }
 .blue-box{
     background-color: #3882F6;
-    width: 1500px;
-    height: 200px;
     justify-content: center;
     text-align: center;
 }
