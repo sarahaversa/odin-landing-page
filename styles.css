@@ -67,3 +67,11 @@ p{
     background-color: #1F2937;
     color: #dfe0df;
 }
+.gray-box{
+    background-color: #aeaeae;
+}
+.blue-box{
+    background-color: #3882F6;
+    width: 500px;
+    height: 200px;
+}
