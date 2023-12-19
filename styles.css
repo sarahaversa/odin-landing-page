@@ -69,9 +69,13 @@ p{
 }
 .gray-box{
     background-color: #aeaeae;
+    text-align: center;
+    justify-content: center;
 }
 .blue-box{
     background-color: #3882F6;
-    width: 500px;
+    width: 1500px;
     height: 200px;
+    justify-content: center;
+    text-align: center;
 }
