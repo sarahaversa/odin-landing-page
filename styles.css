@@ -48,8 +48,10 @@ h2{
     border-width: 4px;
 }
 #one, #two, #three, #four{
+    display: flex;
     flex-direction: row;
-    justify-content: space-evenly;
+    justify-content: space-around;
+    align-items:center;
 }
 p{
     font-size: 15px;
@@ -67,12 +69,14 @@ p{
     font-weight: bold;
     font-size: 24px;
     color: #1F2937;
+    text-align: right;
 }
 .topper{
     background-color: #1F2937;
     color: #dfe0df;
 }
 .gray-box{
+    display:flex;
     background-color: #aeaeae;
     text-align: center;
     justify-content: center;
@@ -80,8 +84,7 @@ p{
 .blue-box{
     display: flex;
     background-color: #3882F6;
+    flex-direction: row;
     justify-content: center;
-    text-align: center;
-    height: 20px;
-    width: 500px;
+    text-align: flex-start;
 }
