@@ -64,10 +64,13 @@ p{
     color: #1F2937;
 }
 .author{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    align-items: center;
     font-weight: bold;
     font-size: 24px;
     color: #1F2937;
-    text-align: right;
 }
 .topper{
     background-color: #1F2937;
@@ -84,5 +87,5 @@ p{
     background-color: #3882F6;
     flex-direction: row;
     justify-content: center;
-    text-align: flex-start;
+    flex-wrap: wrap;
 }
