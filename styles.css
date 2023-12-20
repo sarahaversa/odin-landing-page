@@ -7,7 +7,10 @@ h1{
 link{
     font-size: 18px;
     color: #aeaeae;
+    display: flex;
+    flex-direction: row;
     justify-content: flex-end;
+    align-items: flex-start;
 }
 a:link{
     color: #aeaeae;
@@ -67,7 +70,7 @@ p{
     display: flex;
     flex-direction: row;
     justify-content: flex-end;
-    align-items: center;
+    align-items: flex-end;
     font-weight: bold;
     font-size: 24px;
     color: #1F2937;
@@ -88,4 +91,6 @@ p{
     flex-direction: row;
     justify-content: center;
     flex-wrap: wrap;
+    width: 500px;
+    height: 200px;
 }
