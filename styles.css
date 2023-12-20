@@ -11,6 +11,7 @@ link{
     flex-direction: row;
     justify-content: flex-end;
     align-items: flex-start;
+    order: 2;
 }
 a:link{
     color: #aeaeae;
@@ -43,16 +44,18 @@ h2{
 .one, .two, .three, .four{
     display: flex;
     align-items: center;
-    flex-direction: row;
-    justify-content: space-evenly;
+    flex-direction: column;
+    justify-content: space-around;
+    align-content: center;
+    padding: 8px;
     border-color: cornflowerblue;
     border-width: 4px;
 }
 #one, #two, #three, #four{
     display: flex;
-    flex-direction: row;
+    flex-direction: column;
     justify-content: space-around;
-    align-items:center;
+    align-items:flex-end;
 }
 p{
     font-size: 15px;
