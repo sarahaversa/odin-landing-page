@@ -39,7 +39,7 @@ button{
 }
 #cats{
     display: flex;
-    flex-direction: column;
+    flex-direction: row-reverse;
     justify-content: flex-end;
     align-items: center;
 }
