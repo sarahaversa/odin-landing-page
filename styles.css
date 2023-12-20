@@ -33,7 +33,7 @@ button{
     color: #3882F6;
     background-color: #E5E7EB;
     display: flex;
-    flex-direction: row;
+    flex-direction: column;
     justify-content: center;
     align-items: flex-end;
 }
