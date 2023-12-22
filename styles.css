@@ -72,6 +72,11 @@ h2{
 p{
     font-size: 15px;
     color: #dfe0df;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    align-items: flex-end;
+    padding: 8px;
 }
 .topper{
     background-color: #1F2937;
