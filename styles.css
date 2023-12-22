@@ -52,7 +52,7 @@ h2{
 .flex-container{
     background-color: white;
 }
-.one{
+.one, .two, .three, .four{
     display: flex;
     flex-direction: row;
     justify-content: flex-start;
@@ -61,6 +61,7 @@ h2{
     width: 50px;
     padding: 8px;
     border: cornflowerblue;
+    border-width: 5px;
     background-color: pink;
 }
 p{
