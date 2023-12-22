@@ -73,10 +73,10 @@ p{
     font-size: 15px;
     color: #dfe0df;
     display: flex;
-    flex-direction: row-reverse;
-    justify-content: space-evenly;
+    flex-direction: row;
+    justify-content: flex-start;
     align-items: flex-end;
-    padding: 8px;
+    padding: 16px;
 }
 .topper{
     background-color: #1F2937;
