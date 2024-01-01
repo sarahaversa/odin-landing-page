@@ -37,7 +37,7 @@ button{
     display: flex;
     flex-direction: row-reverse;
     justify-content: flex-end;
-    align-items: center;
+    align-items: flex-end;
 }
 h2{
     font-size: 36px;
@@ -48,8 +48,6 @@ h2{
     background-color: white;
 }
 .one, .two, .three, .four{
-    display: flex;
-    flex-direction: row;
     width: 10em;
     height: 10em;
     object-fit: cover;
