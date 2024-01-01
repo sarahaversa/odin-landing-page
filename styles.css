@@ -10,7 +10,7 @@ link{
     display: flex;
     flex-direction: row;
     justify-content: flex-end;
-    align-items: flex-start;
+    align-items: center;
     order: 2;
 }
 a:link{
@@ -65,6 +65,18 @@ h2{
     background-color: cornflowerblue;
     flex-wrap: wrap;
     margin: 0.5rem;
+}
+.one{
+    order: 1;
+}
+.two{
+    order: 2;
+}
+.three{
+    order: 3;
+}
+.four{
+    order: 4;
 }
 #one, #two, #three, #four{
     display: flex;
