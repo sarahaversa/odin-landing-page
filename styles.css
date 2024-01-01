@@ -57,12 +57,14 @@ h2{
     flex-direction: row;
     justify-content: space-around;;
     align-items: center;
-    height: 80px;
-    width: 80px;
+    height: 80%;
+    width: 80%;
     padding: 16px;
     border: pink;
     border-width: 15px;
     background-color: cornflowerblue;
+    flex-wrap: wrap;
+    margin: 0.5rem;
 }
 #one, #two, #three, #four{
     display: flex;
